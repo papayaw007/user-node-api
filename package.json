@@ -1,0 +1,16 @@
+{
+  "name": "my-first-api",
+  "version": "1.0.0",
+  "description": "an api for users ",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "PY",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
